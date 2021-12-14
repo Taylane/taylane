@@ -26,13 +26,12 @@ Here are some ideas to get you started:
    
 </div>
 
-
 <div>
-   <br>
   <a href="https://github.com/taylane">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taylane&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylane&layout=compact&langs_count=16&theme=dracula"/>
-<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylane&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 
   
 <!-- [![Taylane's GitHub stats](https://github-readme-stats.vercel.app/api?username=taylane)](https://github.com/anuraghazra/github-readme-stats) -->
