@@ -5,10 +5,11 @@ I'm a FullStack Dev. 😄
 <br>
 I love Web development, especially FrontEnd and UX 💙
 
-<div>
+<div style="display=flex">
   <a href="https://github.com/taylane">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=taylane&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylane&layout=compact&langs_count=5&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taylane&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taylane&layout=compact&langs_count=5&theme=dracula"/>
+  </a>
 </div>
 
   <br> 
